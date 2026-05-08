@@ -25,7 +25,7 @@ Build a predictive model to:
 
 ##  Expected Business Impact
 
-- Reduce churn from **25% → 18%** (≈28% reduction)
+- Reduce churn from **25% → 18%** 
 - Annual savings: **€2M**
   - (10,000 customers × €200 per customer)
 - Retention campaign ROI: **5:1**
@@ -35,7 +35,7 @@ Build a predictive model to:
 ##  Dataset Information
 
 ###  Source
-IBM Telco Customer Churn Dataset (Kaggle) (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ###  Size
 - 7,043 customers  
