@@ -35,7 +35,7 @@ Build a predictive model to:
 ##  Dataset Information
 
 ###  Source
-[IBM Telco Customer Churn Dataset] (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+[IBM Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ###  Size
 - 7,043 customers  
