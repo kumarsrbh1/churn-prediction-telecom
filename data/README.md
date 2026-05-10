@@ -1,6 +1,6 @@
 
-This folder contains dataset used for project.
+Dataset not uploaded due to size.
 
-If dataset is not uploaded, download from:
-👉 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Download from:
+ 👉 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
