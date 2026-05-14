@@ -90,7 +90,3 @@ Build a machine learning model to predict customer churn and identify high-risk 
 - Bundle value-added services  
 
 ---
-
-## 📂 Project Structure
-
-``
