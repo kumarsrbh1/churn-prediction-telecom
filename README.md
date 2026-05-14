@@ -1,71 +1,92 @@
+# 📊 Customer Churn Prediction – Telecom
 
-#  Customer Churn Prediction – Telecom Industry
+## 🎯 Project Overview
+Build a machine learning model to predict customer churn and identify high-risk customers in a telecom company.
 
-##  Project Overview
-This project aims to predict customer churn in a telecom company using machine learning techniques. The goal is to identify customers who are likely to leave the company **3 months in advance**, enabling the business to take proactive retention actions.
-
----
-
-##  Business Problem
-
-###  Context
-The telecom company is experiencing a **25% annual churn rate**, leading to significant revenue loss.
-
-###  Cost Perspective
-- Customer Acquisition Cost (CAC) is **5× higher** than retention cost.
-- Losing customers directly impacts profitability.
-
-###  Objective
-Build a predictive model to:
-- Identify customers at risk of churn
-- Enable targeted retention campaigns
-- Reduce overall churn rate
 
 ---
 
-##  Expected Business Impact
+## 📊 Business Problem
 
-- Reduce churn from **25% → 18%** 
-- Annual savings: **€2M**
-  - (10,000 customers × €200 per customer)
-- Retention campaign ROI: **5:1**
+- Telecom company loses ~25% customers annually  
+- Customer acquisition cost is 5× higher than retention  
+- Goal: Predict churn early to improve retention  
 
 ---
 
-##  Dataset Information
+## 🗂️ Dataset
 
-###  Source
-[IBM Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+📥 **Download Dataset:**  
+👉 https://www.kaggle.com/datasets/blastchar/telco-customer-churn  
 
-###  Size
 - 7,043 customers  
 - 21 features  
 
 ---
 
-##  Key Features
+## ⚙️ Project Workflow
 
-###  Demographics
-- SeniorCitizen  
-- Partner  
-- Dependents  
-
-###  Services
-- PhoneService  
-- InternetService  
-- StreamingTV  
-
-###  Contract & Billing
-- Contract  
-- MonthlyCharges  
-- TotalCharges  
-- tenure  
-
-###  Customer Support
-- TechSupport  
-- OnlineBackup  
-
-###  Target Variable
-- Churn (Yes / No)
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Model Building (XGBoost)  
+- Model Evaluation  
 
 ---
+
+# 📷 Model Output
+
+---
+
+## 🔹 Customer Churn Distribution
+
+![Churn Distribution](images/churn.png)
+
+---
+
+## 🔹 Feature Importance (Top Drivers of Churn)
+
+![Feature Importance](images/feature_importance.png)
+
+---
+
+## 🤖 Model Used
+
+- ✅ XGBoost Classifier  
+- Handles non-linear relationships  
+- Works well with structured/tabular data  
+
+---
+
+## 📊 Model Performance
+
+- Accuracy: **XX%**  
+- Precision: **XX**  
+- Recall: **XX**  
+- F1 Score: **XX**  
+
+*(Update these values from your notebook)*
+
+---
+
+## 🔍 Key Insights
+
+- Customers with **month-to-month contracts** churn more  
+- Customers with **high monthly charges** are high risk  
+- **New customers (low tenure)** are most likely to churn  
+- Customers without **security services** tend to leave  
+
+---
+
+## 💡 Business Recommendations
+
+- Offer retention plans to high-risk customers  
+- Encourage long-term contracts  
+- Improve onboarding for new customers  
+- Bundle value-added services  
+
+---
+
+## 📂 Project Structure
+
+``
