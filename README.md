@@ -44,13 +44,13 @@ The goal is to enable proactive retention strategies and reduce customer loss.
 
 ## 🔹 Customer Churn Distribution
 
-images/churn.png
+![Churn Distribution](images/churn.png)
 
 ---
 
 ## 🔹 Feature Importance (Top Drivers of Churn)
 
-images/feature_importance.png
+![Feature Importance](images/feature_importance.png)
 
 ---
 
