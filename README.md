@@ -60,12 +60,16 @@ Build a machine learning model to predict customer churn and identify high-risk 
 
 ## 📊 Model Performance
 
-- Accuracy: **XX%**  
-- Precision: **XX**  
-- Recall: **XX**  
-- F1 Score: **XX**  
 
-*(Update these values from your notebook)*
+- Accuracy: **80.5%**
+
+### Classification Report:
+
+| Class | Precision | Recall | F1 Score |
+|------|----------|--------|----------|
+| 0 (Non-churn) | 0.84 | 0.90 | 0.87 |
+| 1 (Churn)     | 0.66 | 0.54 | 0.59 |
+
 
 ---
 
