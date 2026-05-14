@@ -20,16 +20,3 @@ This folder contains the dataset used for the Customer Churn Prediction project.
 
 ---
 
-## ⚠️ Note
-
-- Dataset may not be included in this repository due to size restrictions
-- Please download it manually from Kaggle and place it in this folder
-
----
-
-## 🧠 Purpose
-
-This dataset is used for:
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Training & Evaluation
